@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndyVision</string>
+    <string name="splash_app_tagline">The solution to reading what’s not on your screen!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="main_activity_title">Documents</string>
+    <string name="main_status_message">There are no documents saved here,\ngo shoot some by clicking on the button below!</string>
+</resources>
